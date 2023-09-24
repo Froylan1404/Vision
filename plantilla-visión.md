@@ -173,7 +173,7 @@ Con esta aplicación, se abordará varios desafíos importantes en el mundo de l
 ### Necesidad 7.1
 - **Necesidad:** Necesidad de dar una retroalimentación de los servicios que se dan en la red.
 - **Persona Interesada:** Usuarios que compran productos en la aplicación.
-- **Prioridad:** Media.
+- **Prioridad:** Alta.
 - **Característica:** 
   - FEA1: Permitir al usuario dar su opinión sobre el producto adquirido.}
   - FEA2: Permitir a la entidad cambiar de ser necesario su imagen, descrita por usuarios que compran sus productos.
@@ -184,7 +184,7 @@ Con esta aplicación, se abordará varios desafíos importantes en el mundo de l
 ### Necesidad 7.2
 - **Necesidad:** Necesidad de dar una retroalimentación de los servicios que se dan en la red.
 - **Persona Interesada:** Usuarios que venden un producto, entidades que quieren darse a conocer.
-- **Prioridad:** Media.
+- **Prioridad:** Alta.
 - **Característica:** 
   - FEA1 Permitir al usuario informarse sobre lo que puede encontrar en la adquisición de un producto por parte de una empresa.
   - FEA2 Permitir a la entidad dar a conocer la calidad de sus productos ofrecidos y ellos mismos como empresa o usuarios.
