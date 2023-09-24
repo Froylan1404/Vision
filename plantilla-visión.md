@@ -8,52 +8,43 @@
 
 ## Introducción
 
-El propósito de este documento es recopilar, analizar y definir las necesidades y características de alto nivel del sistema "Finding Pets". Se enfoca en las capacidades necesarias para abordar una demanda crítica: la necesidad de proporcionar retroalimentación de los servicios que se ofrecen en la red. Esta necesidad surge en un entorno en el que la retroalimentación y la satisfacción de los usuarios desempeñan un papel fundamental en la mejora continua de los servicios en línea.
+El presente documento tiene como objetivo definir y establecer la visión y el alcance del proyecto "Adopets". Este proyecto se propone abordar una serie de necesidades críticas en el ámbito de los servicios relacionados con animales y mascotas, en un mundo cada vez más digital y centrado en la experiencia del usuario.
 
-La retroalimentación de los servicios es esencial para la calidad, la confiabilidad y la mejora constante de cualquier plataforma en línea. Los usuarios desean compartir sus experiencias, expresar sus inquietudes y sugerir mejoras. La falta de un mecanismo eficiente de retroalimentación puede llevar a una desconexión entre los usuarios y el sistema, lo que a su vez puede afectar negativamente la reputación y la eficacia de la plataforma "Finding Pets".
+"Adopets" se erige como una respuesta a la necesidad de proporcionar una plataforma centralizada y eficiente que permita a los usuarios acceder a servicios, productos y adopciones relacionados con animales de manera transparente y segura.
 
-Este documento de Visión proporciona una visión general de todo el proyecto y se centra en cómo el sistema "Finding Pets" abordará la necesidad crítica de brindar una plataforma eficaz de retroalimentación de servicios en línea, garantizando la satisfacción de los usuarios y la mejora continua de la plataforma.
+Este documento de Visión proporciona una visión general de todo el proyecto, abordando el propósito, el alcance, las definiciones clave, los acrónimos, las abreviaciones y la visión general de este proyecto. A través de AP, se busca crear una comunidad comprometida y apasionada por el bienestar de los animales, facilitando el acceso a servicios de calidad y promoviendo la retroalimentación constante para la mejora continua.
 
 
 
 ### Alcance
 
-Este documento de Visión tiene como objetivo definir y establecer el alcance del proyecto "Finding Pets". Este proyecto está relacionado con otros dos proyectos que desarrollan  necesidades críticas :
+Este documento de Visión tiene un alcance específico y se centra en proporcionar una descripción general de alto nivel del proyecto "Adopets". Está diseñado para definir los objetivos, las necesidades y las características clave del proyecto, así como para delinear su dirección estratégica.
 
-Ausencia de un medio centralizado para la oferta de servicios o productos referentes a temas de animales: Nuestro proyecto se interrelacionan en la medida que calificar entidades, empresa o usuario se vuelve imperativo para que otros puedan notar la calidad del servicio, producto ofrecido.
+El alcance de este documento de Visión abarca la comprensión de los desafíos y las oportunidades que enfrenta el proyecto AP. Describe el propósito del proyecto, los grupos de interés involucrados y las razones subyacentes que justifican la creación de la plataforma "Adopets”.
 
-Ausencia de un medio centralizado para la adopción de mascotas: El proyecto que desarrolle esta necesidad dotará de la aplicación de una funcionalidad principal, y de la misma manera que comprar producto, calificar al usuario que da a la mascota en adopción dará a los usuarios una herramienta con la que podrán hacer una decisión con más confianza. 
+Este documento también proporcionará una descripción general de alto nivel de cómo el proyecto "Adopets" se propone abordar estas necesidades y los beneficios esperados. Además, establecerá el tono y la dirección para documentos y especificaciones posteriores que detallarán cómo se implementarán las soluciones.
 
-Este documento de Visión no solo se relaciona con la definición y el alcance de "Finding Pets" como un proyecto independiente, sino que también reconoce su interacción con otros proyectos que abordan estas necesidades complementarias.
+El alcance de este documento de Visión se limita a la definición estratégica y la visión general del proyecto, dejando los detalles específicos de implementación para documentos posteriores.
+
 
 
 ### Acrónimos y abreviaturas
 
-**FP - Finding Pets:** El acrónimo principal del proyecto "Finding Pets". (*)
+**AP - Adopets:** El acrónimo principal del proyecto "Adopets".
 
-**UP - Usuarios Principales:** Para referirse a los usuarios finales que utilizan la aplicación para encontrar servicios, productos o adoptar mascotas.
-
-**EB - Empresas y Anunciantes:**   Representa las empresas y proveedores de servicios que utilizan la plataforma para ofrecer servicios o productos relacionados con animales.
-
-**DEV - Desarrolladores:**  El equipo encargado de diseñar, desarrollar y mantener la aplicación "Finding Pets".
+**UP - Usuarios Principales:** Para referirse a los usuarios finales que utilizan la aplicación para encontrar servicios, productos o adoptar mascotas
 
 **UI/UX - Interfaz de Usuario/Experiencia de Usuario:**  Para referirse al diseño y la usabilidad de la aplicación.
 
-**API - Interfaz de Programación de Aplicaciones:**  Componentes que permiten la interacción entre la aplicación y otras plataformas o servicios.
 
-**CRM - Gestión de Relaciones con el Cliente:**  Si se implementa un sistema para administrar la retroalimentación y las interacciones con los usuarios y las empresas.
 
 **OAA - Organización de Adopción de Animales:**  Para referirse a organizaciones que se dedican a la adopción de mascotas.
 
 **RA - Reseñador de Animales:**  Para las personas que escriben reseñas y comentarios sobre servicios ,adopciones de mascotas y productos.
 
-**ADM - Administrador de la Plataforma:**  Aquellos responsables de gestionar y mantener la plataforma "Finding Pets".
-
-**EMP - Empresas Anunciantes:**  Empresas que utilizan la plataforma para anunciar sus servicios o productos relacionados con animales.
 
 **VET - Veterinarios:**  Para los profesionales de la salud animal que pueden estar involucrados en la plataforma.
 
-**PRP - Personas Responsables de las Mascotas:**  Usuarios que adoptan o tienen mascotas y utilizan la plataforma.
 
 **AC- Atributo de Calidad:**  Características o propiedades que se utilizan para evaluar la calidad de un producto, servicio o sistema.
 
@@ -62,15 +53,16 @@ Este documento de Visión no solo se relaciona con la definición y el alcance d
 
 ### Oportunidad de negocio
 
-La necesidad de desarrollar un sistema que facilite la retroalimentación de los servicios en línea relacionados con temas de animales representa una sólida oportunidad de negocios. Esto se debe a la demanda del mercado insatisfecha, la competencia limitada y el potencial para ofrecer un modelo de negocio sostenible a través de monetización y asociaciones estratégicas. Además, la creación de una comunidad comprometida y el enfoque en la mejora continua pueden generar un impacto social positivo y permitir la escalabilidad del proyecto.
+La oportunidad de negocio que este proyecto aborda se centra en la creación de una aplicación que resuelve la falta de un medio centralizado y confiable para Organizaciones de adopción de animales(OAA), la difusión de información sobre temas de animales, la oferta de servicios y productos relacionados con animales. Esta aplicación busca aprovechar la creciente conciencia y preocupación por el bienestar animal, así como la demanda de servicios y productos relacionados con mascotas, para crear una comunidad activa y comprometida en torno a estos temas.
 
 ### Sentencia del problema
 
 
-- **El problema:** Falta de un mecanismo eficiente de retroalimentación en línea para los diferentes servicios o productos ofrecidos en relación a las mascotas.
-- **Afecta a:** Usuarios primarios, tiendas, veterinarias, refugios.
-- **El impacto del cual es:** El impacto de este problema se visualiza en la calidad de los servicios dados, satisfacción del usuario como una desconexión entre proveedores y usuarios en el ámbito del cuidado animal. 
-- **Una solución exitosa sería:** Implementar un sistema de valoración basado en estrellas o calificaciones numéricas para cada servicio o producto. Los usuarios deben poder calificar y dejar comentarios detallados sobre sus experiencias.
+- **El problema:** Falta de un medio centralizado y confiable para la adopción de mascotas, la difusión de información sobre temas de animales, la oferta de servicios y productos de animales, así como la necesidad de compartir información genérica de mascotas, denunciar casos de maltrato de manera anónima y retroalimentación de productos y servicios.
+- **Afecta a:** Usuarios primarios, tiendas, veterinarias  y refugios.
+- **El impacto del cual es:** El impacto de este problema se visualiza como adopciones desorganizadas, dificultad de difusión de información, así como  carencias de una plataforma que abarque la adopción de mascotas.
+- **Una solución exitosa sería:**  Implementar un sistema que aborde todos los problemas planteados en la aplicación, además, debe ser accesible para toda persona en el país, siempre y cuando este sea mayor de edad, para así llegar a la máxima población posible. Por otra parte, debe ser escalable y sostenible a largo plazo para continuar brindando beneficios a los usuarios y a los animales.
+
 
 
 ## Descripción de las personas interesadas
@@ -79,21 +71,24 @@ La necesidad de desarrollar un sistema que facilite la retroalimentación de los
 
 ---
 
-#### Persona 1
+
 
 #### Persona 1
 
 - **Nombre:** Usuarios primarios
-- **Descripción:** Los Usuarios Primarios desempeñan un papel crucial, ya que son uno de los principales beneficiarios y afectados por los servicios y productos que se  ofrecen en la aplicación. 
-- **Responsabilidades:** Los Usuarios Primarios tienen la capacidad de dar retroalimentación valiosa y valorar los servicios y productos disponibles en la aplicación, lo que contribuye directamente a la toma de decisiones informadas por parte de otros usuarios. Los usuarios primarios pueden contribuir a la comunidad compartiendo sus experiencias, consejos y recomendaciones con otros usuarios. Su participación activa y sus interacciones con la aplicación son fundamentales para el éxito y la utilidad continua de la plataforma.
-- **Rol:** Usuario
+- **Descripción:** Los UP desempeñan un papel crucial, ya que son las principales personas interesadas, ya que ellos son los que van a usar la aplicación, para los distintos fines que tiene como la adopción de mascotas, difusión de información referente a las mascotas, retroalimentación de productos o servicios, publicaciones y compra de productos para mascotas.
+
+- **Responsabilidades:** Deben contribuir activamente a la adopción de mascotas, así como a la difusión de información sobre temas de animales. Esto implica comunicarse de manera efectiva, compartir información precisa y completa sobre las mascotas en adopción o los servicios/productos relacionados con animales. Además, se espera que utilicen la función de denuncia anónima para informar sobre posibles casos de maltrato animal. Los UP tienen la capacidad de ser RA, lo que contribuye directamente a la toma de decisiones informadas por parte de otros usuarios Su participación activa y sus interacciones con la aplicación son fundamentales para el éxito y la utilidad continua de la aplicación.
+
+ 
+- **Rol:** Usuario público
 
 #### Persona 2
 
 - **Nombre:** Refugios de animales
 - **Descripción:** Éste involucrado asegura la solución de proveer acceso a los interesados en las mascotas que aún no tienen un hogar. 
 - **Responsabilidades:** La principal responsabilidad es garantizar el cuidado y el bienestar de los animales que vende. Esto implica proporcionarles un ambiente limpio y seguro, una dieta adecuada, atención veterinaria cuando sea necesario y asegurarse de que los animales sean manejados con cuidado y respeto. Debe brindar a sus clientes información precisa y completa sobre el cuidado y las necesidades de los animales que venden.
-- **Rol:** Stakeholder
+- **Rol:** Organización
 
 #### Persona 3
 
@@ -102,50 +97,125 @@ La necesidad de desarrollar un sistema que facilite la retroalimentación de los
 
 - **Responsabilidades:** La tienda debe ofrecer una amplia gama de productos de alta calidad para mascotas, incluyendo alimentos, juguetes, accesorios, ropa y productos de cuidado. Deben asegurarse de que los productos sean seguros y adecuados para las diferentes especies y tamaños de mascotas. La tienda debe mantener un ambiente limpio y ordenado para garantizar la seguridad y la salud de los clientes y las mascotas que la visitan.
 
-- **Rol:** Stakeholder
+- **Rol:** Organización
 
 #### Persona 4
 
 - **Nombre:** Veterinarias 
-- **Descripción:** Éste involucrado se encarga de ofrecer cuidado y atención médica a las mascotas y animales.
-- **Responsabilidades:** Las veterinarias deben abarcar la prestación de atención médica de alta calidad, el diagnóstico y el tratamiento de enfermedades, la cirugía, la asesoría sobre el cuidado preventivo y, en última instancia, el bienestar de las mascotas y animales bajo su cuidado. La retroalimentación y las valoraciones proporcionadas por los usuarios son una parte valiosa de su colaboración, ya que les permiten recibir comentarios directos sobre su desempeño y la satisfacción de los clientes.
-- **Rol:** Stakeholder
+- **Descripción:** Las VET se encargan de ofrecer cuidado y atención médica a las mascotas y animales.
+- **Responsabilidades:** Las VET deben abarcar la prestación de atención médica de alta calidad, el diagnóstico y el tratamiento de enfermedades, la cirugía, la asesoría sobre el cuidado preventivo y, en última instancia, el bienestar de las mascotas y animales bajo su cuidado. La retroalimentación y las valoraciones proporcionadas por los UP son una parte valiosa de su colaboración, ya que les permiten recibir comentarios directos sobre su desempeño y la satisfacción de los clientes.
+- **Rol:** Organización
+---
+
 
 
 ---
 ## Descripción del Producto
-Permite a los usuarios de la aplicación dar su opinión acerca de un producto adquirido por las entidades, empresa o usuario. Producto, ya sea una mascota, un alimento, una atención veterinaria, un producto decorativo..
- Ayuda al usuario a conocer la valoración, de manera gráfica, que ha recibido por los demás usuarios, de la aplicación, el producto que va a comprar así como a las entidades a darse a conocer entre las personas y competir de manera más visual con las demás entidades de la aplicación.
+Con esta aplicación, se abordará varios desafíos importantes en el mundo de los animales: la falta de un medio centralizado para la adopción de mascotas, la necesidad de información confiable sobre temas de animales, la ausencia de un lugar para encontrar servicios y productos relacionados con animales, y la demanda de compartir información sobre mascotas de manera sencilla y segura. Nuestra aplicación ofrece una UI/UX completa que permite a los usuarios adoptar mascotas, compartir información valiosa sobre cuidado de animales, denunciar maltrato de manera anónima, conectarse con proveedores de servicios y productos confiables. Además, permite a los UP dar su opinión acerca de un producto o servicio adquirido por las distintas organizaciones, ya sea una mascota, un alimento, una atención veterinaria o un producto decorativo.
 
 ---
+
 ### Necesidad 1
-- **Necesidad:** Valorar un producto ofrecido por una entidad empresa o usuario
-- **Persona Interesada:** Usuarios que compran productos en la aplicación.
+- **Necesidad:** Ausencia de un medio centralizado para la adopción de mascotas
+- **Persona Interesada:** Usuarios y centros de adopción.
 - **Prioridad:** Alta.
 - **Característica:** 
-  - **FEA1:** Permitir al usuario dar su opinión sobre el producto adquirido.
-  - **FEA2:** Permitir a la entidad cambiar de ser necesario su imagen, descrita por usuarios que compran sus productos.
-  - **FEA3:** Permitir a la aplicación un manejo de control sobre qué productos y entidades desean mostrar a sus usuarios para una mayor satisfacción de uso.
+  - FEA1: Permitir al usuario adoptar una mascota.
+  - FEA2: Permitir a los centros de adopción, dar en adopción, virtualmente.
+  - FEA3: Permitir al usuario dar en adopción una mascota.
 
 ### Necesidad 2
-- **Necesidad:** Mostrar la valoración realizada por otros usuarios a una entidad que ofrece un producto.
-- **Persona Interesad:** Usuarios que venden un producto, entidades que quieren darse a conocer.
+- **Necesidad:** Ausencia de un medio confiable para la difusión de información referente a temas de animales
+- **Persona Interesada:** Usuarios y entidades gubernamentales.
+- **Prioridad:** baja.
+- **Característica:** 
+  - FEA1: Permitir al usuario dar su opinión acerca de cualquier tipo de situación que esté ocurriendo con algún de animal, que pueda servir de ayuda.
+  - FEA2: Permitir a las entidades gubernamentales correspondiente, el responder a tiempo ante una situación ocurrida en cierta zona por algún animal.
+  - FEA3: Permitir a los usuarios informarse sobre cualquier situación relacionada con algún animal, reportada por la aplicación.
+
+### Necesidad 3
+- **Necesidad:** Ausencia de un medio centralizado para la oferta de servicios o productos referente a temas de animales
+- **Persona Interesada:** Usuarios, veterinarias y tiendas de mascotas.
+- **Prioridad:** media.
+- **Característica:** 
+  - FEA1: Permitir al usuario informarse sobre algún producto o servicio ofrecido por la aplicación que le ayude a satisfacer su necesidad.
+  - FEA2: Permitir a las veterinarias y demás centros de ayuda animal, promocionar sus servicios a los usuarios.
+  - FEA3: Permitir a las tiendas y demás centros de comercio de productos para animales, promocionar sus productos.
+  - FEA4: Permitir a los usuarios ofrecer sus servicios o productos.
+
+### Necesidad 4
+- **Necesidad:** Ausencia de un medio para difundir o compartir información genérica de una mascota.
+- **Persona Interesada:** Usuarios y entidades a las que interese.
+- **Prioridad:** media.
+- **Característica:** 
+  - FEA1: Permitir al usuario compartir información de su mascota.}
+  - FEA2: Permitir a las entidades interesadas en el tema, la tendencia del momento referente a mascotas.
+  - FEA3: Permitir a los usuarios conocer más sobre mascotas de otros usuarios.
+
+### Necesidad 5
+- **Necesidad:** Denuncia anónima para personas de la región.
+- **Persona Interesada:** Usuarios y entidades que interese.
+- **Prioridad:** media.
+- **Característica:** 
+  - FEA1: Permitir al usuario la posibilidad de reportar una situación ocurrida en una zona.
+  - FEA2: Permitir a la entidad que interese, la posibilidad de actuar ante ese reporte.
+  - FEA3: Permitir al usuario informarse sobre la situación reportada.
+
+### Necesidad 6
+- **Necesidad:** Publicar mensajes de animales en una región.
+- **Persona Interesada:** Usuarios y entidades que interese.
+- **Prioridad:** baja.
+- **Característica:** 
+  - FEA1: Permitir al usuario publicar información para una zona o región deseada.
+  - FEA2: Permitir a la entidad que interese, en esa región, informarse de lo que se publica.
+  - FEA3: Permitir a los usuarios de esa región, informarse sobre lo que se publica.
+
+### Necesidad 7.1
+- **Necesidad:** Necesidad de dar una retroalimentación de los servicios que se dan en la red.
+- **Persona Interesada:** Usuarios que compran productos en la aplicación.
 - **Prioridad:** Media.
 - **Característica:** 
-  - **FEA1:** Permitir al usuario informarse sobre lo que puede encontrar en la adquisición de un producto por parte de una empresa.
-  - **FEA2:** Permitir a la entidad dar a conocer la calidad de sus productos ofrecidos y ellos mismos como empresa o usuarios.
-  - **FEA3:** Permitir a la aplicación interactividad entre usuarios y entidades.
+  - FEA1: Permitir al usuario dar su opinión sobre el producto adquirido.}
+  - FEA2: Permitir a la entidad cambiar de ser necesario su imagen, descrita por usuarios que compran sus productos.
+  - FEA3: Permitir a la aplicación un manejo de control sobre qué productos y entidades desean mostrar a sus usuarios para una mayor satisfacción de uso.
+
+
+
+### Necesidad 7.2
+- **Necesidad:** Necesidad de dar una retroalimentación de los servicios que se dan en la red.
+- **Persona Interesada:** Usuarios que venden un producto, entidades que quieren darse a conocer.
+- **Prioridad:** Media.
+- **Característica:** 
+  - FEA1 Permitir al usuario informarse sobre lo que puede encontrar en la adquisición de un producto por parte de una empresa.
+  - FEA2 Permitir a la entidad dar a conocer la calidad de sus productos ofrecidos y ellos mismos como empresa o usuarios.
+  - FEA3 Permitir a la aplicación interactividad entre usuarios y entidades.
+
+### Necesidad 8
+- **Necesidad:** Necesidad de centralizar por intereses en común.
+- **Persona Interesada:** Usuarios de la aplicación.
+- **Prioridad:** Alta.
+- **Característica:** 
+  - FEA1 Permitir al usuario compartir información con otros usuarios que tienen el mismo interés del tema.
+  - FEA2 Permitir al usuario informarse principalmente sobre el tema de su interés.
+  - FEA3 Permitir en la aplicación el uso de mensaje privado.
 ---
 
-## Restricciones y atributos de calidad
+## Restricciones (R) y atributos de calidad (AC)
 
-- **AC: Rapidez:** Permite a los usuarios interesados encontrar de manera más rápida sus productos deseados.
-- **AC: Satisfacción:** Permite al usuario la seguridad de comprar un producto bien valorado.
-- **AC: Mantenimiento:** Permite a la aplicación ordenar de manera asertiva, entidades y productos ofrecidos por estos.
-- **AC: Inclusión:** Permite al usuario ser parte de la valoración de un producto que ha utilizado.
-- **AC:** Promoción: Permite a la entidad conocer la valoración de un producto ofrecido.
+- **AC:** Rapidez: Permite a los usuarios interesados encontrar de manera más rápida sus productos y servicios deseados.
+- **AC:** Satisfacción: Permite al usuario la seguridad de comprar un producto bien valorado por otros usuarios.
+- **AC:** Mantenimiento: Permite a la aplicación ordenar de manera asertiva, entidades y productos ofrecidos por estos, en base a tendencias o valoraciones de otros usuarios.
+- **AC:** Inclusión: Permite al usuario ser parte de la valoración de un producto que ha utilizado, y ser parte de algún tema de interés.
+- **AC:** Promoción: Permite a la entidad conocer la valoración de un producto ofrecido y promocionar productos poco solicitados o en tendencias.
+- **AC:** Centralización: Permite a los usuarios tener un medio exclusivo para los temas relacionados a animales y mascotas.
 
 - **R:** Personas que no den retroalimentación correcta sobre un producto adquirido.
+- **R:** Personas que no usen la aplicación para temas exclusivos a animales.
 - **R:** Entidades que no terminan vendiendo el producto ofrecido o de la calidad esperada.
 - **R:** Acumulación de comentarios sin aporte alguno a la retroalimentación de un producto o entidad.
 - **R:** Posibilidad de dar retroalimentación por parte de los usuarios que no han adquirido un producto.
+- **R:** Denuncias que afecten a la credibilidad de la aplicación o sean malintencionadas.
+
+
+
+
