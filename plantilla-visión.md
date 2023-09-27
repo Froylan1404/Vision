@@ -170,25 +170,13 @@ Con esta aplicación, se abordará varios desafíos importantes en el mundo de l
   - FEA2: Permitir a la entidad que interese, en esa región, informarse de lo que se publica.
   - FEA3: Permitir a los usuarios de esa región, informarse sobre lo que se publica.
 
-### Necesidad 7.1
+### Necesidad 7
+
 - **Necesidad:** Necesidad de dar una retroalimentación de los servicios que se dan en la red.
-- **Persona Interesada:** Usuarios que compran productos en la aplicación.
-- **Prioridad:** Alta.
+- **Persona Interesada:** Usuarios que compran y venden productos en la aplicación, entidades que quieren darse a conocer.
+- **Prioridad:** alta.
 - **Característica:** 
-  - FEA1: Permitir al usuario dar su opinión sobre el producto adquirido.}
-  - FEA2: Permitir a la entidad cambiar de ser necesario su imagen, descrita por usuarios que compran sus productos.
-  - FEA3: Permitir a la aplicación un manejo de control sobre qué productos y entidades desean mostrar a sus usuarios para una mayor satisfacción de uso.
-
-
-
-### Necesidad 7.2
-- **Necesidad:** Necesidad de dar una retroalimentación de los servicios que se dan en la red.
-- **Persona Interesada:** Usuarios que venden un producto, entidades que quieren darse a conocer.
-- **Prioridad:** Alta.
-- **Característica:** 
-  - FEA1 Permitir al usuario informarse sobre lo que puede encontrar en la adquisición de un producto por parte de una empresa.
-  - FEA2 Permitir a la entidad dar a conocer la calidad de sus productos ofrecidos y ellos mismos como empresa o usuarios.
-  - FEA3 Permitir a la aplicación interactividad entre usuarios y entidades.
+  - FEA1 Permitir al usuario informarse y dar su opinión y calificación sobre el producto o servicio a adquirir.
 
 ### Necesidad 8
 - **Necesidad:** Necesidad de centralizar por intereses en común.
