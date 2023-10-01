@@ -105,6 +105,19 @@ La oportunidad de negocio que este proyecto aborda se centra en la creación de 
 - **Descripción:** Las VET se encargan de ofrecer cuidado y atención médica a las mascotas y animales.
 - **Responsabilidades:** Las VET deben abarcar la prestación de atención médica de alta calidad, el diagnóstico y el tratamiento de enfermedades, la cirugía, la asesoría sobre el cuidado preventivo y, en última instancia, el bienestar de las mascotas y animales bajo su cuidado. La retroalimentación y las valoraciones proporcionadas por los UP son una parte valiosa de su colaboración, ya que les permiten recibir comentarios directos sobre su desempeño y la satisfacción de los clientes.
 - **Rol:** Organización
+
+#### Persona 5
+- **Nombre:** Administrador del sistema
+- **Descripción:** El usuario administrador es una figura central en la aplicación, encargado de supervisar y gestionar todas las operaciones de la plataforma. 
+- **Responsabilidades:**
+- El administrador tiene la responsabilidad de asegurar que la aplicación funcione sin problemas, cumpliendo con los principios éticos y los objetivos establecidos para la comunidad de usuarios.
+- El administrador es el encargado de garantizar que la experiencia del usuario sea positiva, segura y valiosa.
+- Supervisar y coordinar con otros colaboradores, como moderadores y expertos en temas de animales, para asegurar la coherencia en las políticas y la calidad del contenido.
+- Gestionar las denuncias anónimas, investigar los casos reportados y colaborar con las autoridades pertinentes en situaciones de maltrato animal.
+
+- **Rol:** Administrador
+
+  
 ---
 
 
@@ -171,12 +184,13 @@ Con esta aplicación, se abordará varios desafíos importantes en el mundo de l
   - FEA3: Permitir a los usuarios de esa región, informarse sobre lo que se publica.
 
 ### Necesidad 7
-
 - **Necesidad:** Necesidad de dar una retroalimentación de los servicios que se dan en la red.
 - **Persona Interesada:** Usuarios que compran y venden productos en la aplicación, entidades que quieren darse a conocer.
 - **Prioridad:** alta.
 - **Característica:** 
-  - FEA1 Permitir al usuario informarse y dar su opinión y calificación sobre el producto o servicio a adquirir.
+  - FEA1 Permitir al usuario dar su calificación y retroalimentación sobre el producto o servicio a adquirir.
+  - FEA2 Administrar comentarios en la aplicación antes de estar disponibles a los usuarios.
+  - FEA3 Permitir ver calificación y retroalimentación de su producto o servicio, es decir, cómo los usuarios, los administradores y las empresas pueden ver dicha información.
 
 ### Necesidad 8
 - **Necesidad:** Necesidad de centralizar por intereses en común.
