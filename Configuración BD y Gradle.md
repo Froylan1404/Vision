@@ -20,8 +20,12 @@ A continuación la configuración del .xml:
 
 1. El gitignore no deja hacer hacer push al .env, por lo que deben de añadir dentro del proyecto ‘events-service’ las siguientes carpetas: ‘.env’ y .env-local-template’ y dentro de ellas se debe de poner lo siguiente:
 
-
-![1](https://i.imgur.com/TyvIzdj.png)
+ ```java
+DB_URL=jdbc:mysql://localhost:3306/events
+DB_USERNAME=events
+DB_PASSWORD=password
+DB_SHOW_SQL=true
+ ```
 
 ![1](https://i.imgur.com/aUZOQ5K.png)
 
@@ -143,6 +147,7 @@ Es preferible que la conexión sea por url, ya que nos permite poner esa direcci
 
  
 **Consideraciones extra: Siempre aparecerá un error de Eureka a este punto porque aún no está implementado esa parte, pero se puede usar perfectamente la aplicación (mientras siga levantado) para guardar datos.**
+
 
 
 
